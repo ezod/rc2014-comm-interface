@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EG2315
+D SLIDE, 200mA, 30VDC DP3T, On-On-On Through Hole, Right Angle
+K
+F https://configured-product-images.s3.amazonaws.com/2D/specs/EG2315.pdf
+$ENDCMP
+#
+#End Doc Library

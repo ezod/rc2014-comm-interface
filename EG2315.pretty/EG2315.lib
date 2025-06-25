@@ -1,0 +1,31 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model EG2315
+#/772260/1698047/2.50/10/2/Switch
+DEF EG2315 S 0 30 Y Y 1 F N
+F0 "S" 850 700 50 H V L CNN
+F1 "EG2315" 850 600 50 H V L CNN
+F2 "EG2315" 850 500 50 H I L CNN
+F3 "https://configured-product-images.s3.amazonaws.com/2D/specs/EG2315.pdf" 850 400 50 H I L CNN
+F4 "SLIDE, 200mA, 30VDC DP3T, On-On-On Through Hole, Right Angle" 850 300 50 H I L CNN "Description"
+F5 "4.7" 850 200 50 H I L CNN "Height"
+F6 "612-EG2315" 850 100 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/E-Switch/EG2315?qs=6C6BR4UgC3OZWOW4uUYcjQ%3D%3D" 850 0 50 H I L CNN "Mouser Price/Stock"
+F8 "E-Switch" 850 -100 50 H I L CNN "Manufacturer_Name"
+F9 "EG2315" 850 -200 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X NC_1 1 300 -700 200 U 50 50 0 0 P
+X COM_1 2 400 -700 200 U 50 50 0 0 P
+X NO_1 3 500 -700 200 U 50 50 0 0 P
+X NO_2 4 600 -700 200 U 50 50 0 0 P
+X NC_2 5 300 700 200 D 50 50 0 0 P
+X COM_2 6 400 700 200 D 50 50 0 0 P
+X NO_3 7 500 700 200 D 50 50 0 0 P
+X NO_4 8 600 700 200 D 50 50 0 0 P
+X MH1 MH1 0 0 200 R 50 50 0 0 P
+X MH2 MH2 1000 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 500 800 500 800 -500 200 -500 200 500 N
+ENDDRAW
+ENDDEF
+#
+#End Library
